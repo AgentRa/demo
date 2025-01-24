@@ -1,3 +1,3 @@
 # demo
 [demo build
-](https://agentra.github.io/demo/)
+](https://agentra.github.io/)
